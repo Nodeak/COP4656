@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">HW1_Hamm_Kaedon</string>
+    <string name="hello_world">Hello World!</string>
 </resources>
