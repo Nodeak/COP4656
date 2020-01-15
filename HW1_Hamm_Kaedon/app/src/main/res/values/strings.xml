@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">HW1_Hamm_Kaedon</string>
     <string name="hello_world">Hello World!</string>
+    <string name="input_name_holder">Input Name</string>
+    <string name="red_name">Red</string>
+    <string name="blue_name">Blue</string>
+    <string name="green_name">Green</string>
 </resources>
